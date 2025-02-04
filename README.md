@@ -79,4 +79,4 @@ This tool is for **educational and ethical use only**. Do not use it for illegal
 💡 **Bug Bounty | Cybersecurity | Ethical Hacking**  
 📩 Contact: **abhinavsingwal@gmail.com**  
 🔗 LinkedIn: **https://www.linkedin.com/in/abhinavsingwal**  
-🔗 YogSec: **[https://www.linkedin.com/in/abhinavsingwal](https://linktr.ee/yogsec)**  
+🔗 YogSec: **[LinkTree](https://linktr.ee/yogsec)**  

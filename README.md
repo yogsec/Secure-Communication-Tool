@@ -3,6 +3,7 @@
 
 A **Bash-based secure message encryption and decryption tool** using **AES-256-CBC** encryption. It allows users to securely communicate by encrypting messages with a **single shared password**.  
 
+![screenshot](https://github.com/yogsec/Secure-Communication-Tool/blob/main/screenshot.jpeg)
 ---
 
 ### 📌 **Features**
